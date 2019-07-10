@@ -5,7 +5,7 @@ E-commerce is a $4.9T industry worldwide and has been growing exponentially over
 
 # 1.1	Problem Statement
 The main objectives of this project are:
-- identify different customer segments in the data set so that Google can understand customer preferences with respect to the merchandise. This will help Google and third party sellers devise and implement targeted marketing campaigns for certain types of products.
+- Identify different customer segments in the data set so that Google can understand customer preferences with respect to the merchandise. This will help Google and third party sellers devise and implement targeted marketing campaigns for certain types of products.
 - For customers within a segment, identify products that they might be interested based on what the peers in the segment have viewed and/or purchased. This will help Google provide a personalised service to the customers while also increase the time spent on the website in the hope that the customers will eventually make a purchase. 
 
 # 2.	Methods
@@ -32,7 +32,9 @@ Customer segmentation based on clusters can be used for effective marketing stra
 - Retail marketers are constantly looking for ways to improve the effectiveness of their campaigns. One way to do this is to target customers with the particular offers to deepen customer loyalty and improve revenue generated per customer. Marketer’s goal is to make the most relevant match between customer and offer. This can be achieved by targeting specific groups of people with concentrated interests. Clustering similar customers together is a practical method to improve the effectiveness of marketing. The two main advantages of cluster analysis over simple threshold/rule-based segmentation are
 
   a. practicality – it would be practically impossible to use predetermined rules to segment customers over many dimensions
+  
   b. homogeneity – variances within each resulting group are very small in cluster analysis, whereas rule-based segmentation typically      groups customers who are actually very different from one another.
+
 
 - Recommending similar products to a user viewing a product on Google platform
 One of the best tools a retailer has for selling products to customers is providing product recommendations. And customers love product recommendations that are tailored based on their interests and historical behaviour. The recommendations are also a way to improve customer loyalty and hence, increase customer lifetime value (CLTV).
