@@ -9,7 +9,7 @@ The main objectives of this project are:
 - For customers within a segment, identify products that they might be interested based on what the peers in the segment have viewed and/or purchased. This will help Google provide a personalised service to the customers while also increase the time spent on the website in the hope that the customers will eventually make a purchase. 
 
 # 2.	Methods
-In order to build our model, the problem was approached in sequential steps:
+In order to build the model, the problem was approached in sequential steps:
 - Data Cleaning
 - Clustering using K-Means (Unsupervised method) algorithm
 - K-nn (Supervised method) on the clusters identified to recommend products 
