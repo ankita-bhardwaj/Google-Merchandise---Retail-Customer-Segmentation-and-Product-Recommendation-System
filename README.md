@@ -19,14 +19,7 @@ In order to build the model, the problem was approached in sequential steps:
 By using the results from K-means and K-nn algorithms, we achieved the result of recommending products when we know the product that is viewed by a customer. To demonstrate this, we created a function to take the input of a product name and output its 3 nearest products. 
 
 
-# 4. Limitations of the Approach:
-Though this model provides recommendations for a product, there are certain limitations to the model.
-- The model assumes all features to be equally significant, i.e. does not take into account the weights of different features in the K-NN Algorithm. 
-- The model can perform significantly better with more features and more data.
-- Limited computational capacity restricted the model and hence.
-
-
-# 5. Business Application
+# 4. Business Application
 Customer segmentation based on clusters can be used for effective marketing strategies
 
 - Retail marketers are constantly looking for ways to improve the effectiveness of their campaigns. One way to do this is to target customers with the particular offers to deepen customer loyalty and improve revenue generated per customer. Marketer’s goal is to make the most relevant match between customer and offer. This can be achieved by targeting specific groups of people with concentrated interests. Clustering similar customers together is a practical method to improve the effectiveness of marketing. The two main advantages of cluster analysis over simple threshold/rule-based segmentation are
